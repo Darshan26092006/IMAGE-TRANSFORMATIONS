@@ -174,38 +174,42 @@ plt.show()
 
 ## Output:
 ### i)Image Translation
+<img width="266" height="411" alt="download" src="https://github.com/user-attachments/assets/607bec88-48cf-4a43-bcbc-d99995985fde" />
 
-<img width="266" height="411" alt="download" src="https://github.com/user-attachments/assets/8a769306-0dab-4850-b82a-51d9090c8031" />
+
 
 
 
 ### ii) Image Scaling
 
-<img width="266" height="411" alt="download" src="https://github.com/user-attachments/assets/396137be-0691-459b-8f7b-8e5d782bda2d" />
 
+<img width="515" height="339" alt="download" src="https://github.com/user-attachments/assets/36fdfe4a-d5c9-42f7-a768-4a84702f89c8" />
 
 
 ### iii)Image shearing
 
-<img width="266" height="411" alt="download" src="https://github.com/user-attachments/assets/608b5621-8886-486b-b1e9-e7dbf98add17" />
 
+<img width="266" height="411" alt="download" src="https://github.com/user-attachments/assets/7a19a561-dbb5-4478-8f48-fcda9976fd6b" />
 
 
 ### iv)Image Reflection
 
-<img width="266" height="411" alt="download" src="https://github.com/user-attachments/assets/731fafdf-989e-4953-8315-1a51641ff2e9" />
+
+<img width="266" height="411" alt="download" src="https://github.com/user-attachments/assets/8d2ee5bf-6ed2-4209-aebe-3bfdaa36b8f3" />
 
 
 
 
 
 ### v)Image Rotation
-<img width="266" height="411" alt="download" src="https://github.com/user-attachments/assets/1c7a9228-4353-4ac4-a800-bc983c513e3e" />
+
+<img width="266" height="411" alt="download" src="https://github.com/user-attachments/assets/6b2a281f-74bb-4bd8-b400-e316b0770e60" />
 
 
 
 ### vi)Image Cropping
-<img width="389" height="411" alt="download" src="https://github.com/user-attachments/assets/ad0b9491-bd56-44e6-a70d-08daf6fdfed2" />
+<img width="512" height="411" alt="download" src="https://github.com/user-attachments/assets/d72c77e1-1e0b-46fd-a027-272b0328feb7" />
+
 
 
 
